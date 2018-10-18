@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"vuvuzela.io/crypto/bn256ref"
+	"github.com/friedrich12/crypto/bn256ref"
 )
 
 func TestHashG1Ref(t *testing.T) {

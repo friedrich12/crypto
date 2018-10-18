@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"testing"
 
-	"vuvuzela.io/crypto/bn256"
+	"github.com/friedrich12/crypto/bn256"
 )
 
 func TestCorrectness(t *testing.T) {
